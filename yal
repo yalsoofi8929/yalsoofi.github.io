@@ -1,0 +1,17 @@
+About />
+class Jan Baszczok {
+··// I can, because I did.
+··// My vast variety of skills is continuously expanding.
+··constructor() {
+····this.name = 'Jan Baszczok'
+····this.dayOfBirthTimestamp = 602745592
+····this.email = 'baszczok@yasio.dev'
+··}
+··workExperience() {
+····return [
+······{ '2020-now' : 'Full-stack Developer/Owner at Pixel Lab' }
+······{ '2023-now' : 'Solutions Architect at Digitree Group S.A.' }
+······{ '2017-2023' : 'Full-stack Developer at Digitree Group S.A.' }
+······{ '2013-2017': 'Full-Stack Designer at Digitree Group S.A.' }
+······{ '2006-now' : 'Full-Stack Designer/developer at Yasio.dev' }
+····]
